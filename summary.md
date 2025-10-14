@@ -1,6 +1,16 @@
 # 控制论/强化学习/数学/物理杂记
 >Chatgpt帮忙整理的，所以文章ai味很浓。。
 
+## 目录
+
+- [Part I — Weyl Tube Law 与 Riccati 方程](#part-i--weyl-tube-law-与-riccati-方程)
+- [Part II — 广义相对论的几何与 Riccati 方程](#part-ii--广义相对论的几何与-riccati-方程)
+- [Part III — 量子力学与 Riccati 方程](#part-iii--量子力学与-riccati-方程)
+- [Part IIII — 几何控制论与 Riccati 方程](#part-iiii--几何控制论与-riccati-方程)
+- [Part IIIII — 卡尔曼滤波与 Riccati 方程](#part-iiiii--卡尔曼滤波与-riccati-方程)
+
+
+
 # Part I — Weyl Tube Law 与 Riccati 方程
 
 ## 1️⃣ Tube formula
